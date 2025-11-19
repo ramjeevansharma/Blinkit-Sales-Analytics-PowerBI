@@ -45,7 +45,7 @@ The dashboard provides insights into:
 
 ## 🖼 Dashboard Preview
 
-![Blinkit Dashboard](Screenshots/blinkit-dashboard-preview.png)
+(https://github.com/ramjeevansharma/Blinkit-Sales-Analytics-PowerBI/blob/main/Blinkit-Sales-Analytics-PowerBI.png))
 
 ---
 
